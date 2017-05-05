@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VER=2.0.11.1
+VER=2.0.11.2
 TAR_FILE=uwsgi-${VER}.tar.gz
 SRC_DIR=uwsgi-${VER}
 
